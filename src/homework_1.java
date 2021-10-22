@@ -3,16 +3,44 @@
 
 //1.
 //        arithmetic օperators(թվաբանական);
-//        + - addition
-//        - - subtraction
-//
+
+//        + addition
+//        - subtraction
+//        *	Multiplication
+//        /	Division
+//        %	Modulus
+//        ++ Increment
+//        -- Decrement
+
 //        relational օperators(համեմատության);
-//
+
+//        == Equal to
+//        != Not equal
+//        >	Greater than
+//        <	Less than
+//        >= Greater than or equal to
+//        <= Less than or equal to
+
 //        logical օperators(տրամաբանական);
-//
+
+//        and && Returns true if both statements are true
+//        or || Returns true if one of the statements is true
+//        not ! Reverse the result, returns false if the result is true
+
 //        bitwise օperators(բիթային);
-//
+
+//        Bitwise OR (|)
+//        Bitwise AND (&)
+//        Bitwise XOR (^)
+
 //        assignment օperators(վերագրման);
+
+//        =
+//        +=
+//        -=
+//        *=
+//        /=
+//        %=
 
 //2.
 //        int a = 15;
