@@ -96,6 +96,5 @@ public class homework_1 {
 //                System.out.println("Գոյություն չունի");
 //        }
 //6
-        }
     }
 }
