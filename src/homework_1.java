@@ -1,5 +1,5 @@
-//public class homework_1 {
-//    public static void main(String[] args) {
+public class homework_1 {
+    public static void main(String[] args) {
 
 //1.
 //        arithmetic օperators(թվաբանական);
@@ -93,7 +93,9 @@
 //                System.out.println("Kiraki");
 //                break;
 //            default:
-//                System.out.println("Mutqagreq 1 - 7 tivy");
+//                System.out.println("Գոյություն չունի");
 //        }
-//    }
-//}
+//6
+        }
+    }
+}
